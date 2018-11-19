@@ -1,0 +1,7 @@
+# Setup
+
+1. Region is us-west-2
+
+2. Created IAM user for rPI named "sbs_raspberry_pi", access keys stored in secrets manager
+
+2. Project files in ~/sbs/ on Jeremy's rPI
