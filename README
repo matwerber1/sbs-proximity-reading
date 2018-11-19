@@ -4,4 +4,6 @@
 
 2. Created IAM user for rPI named "sbs_raspberry_pi", access keys stored in secrets manager
 
-2. Project files in ~/sbs/ on Jeremy's rPI
+3. Project files in ~/sbs/ on Jeremy's rPI
+
+4. Create ~/sbs/greengo.yaml based on https://github.com/dzimine/greengo/blob/master/greengo.yaml, and edit as necessary
